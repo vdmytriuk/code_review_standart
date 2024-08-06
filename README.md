@@ -22,7 +22,6 @@
 
 4. **Testing:**
    - Code coverage with tests: [Score/10]
-   - Quality of unit tests: [Score/10]
 
 5. **Stability and Debugging:**
    - Absence of console errors: [Score/10]
@@ -40,6 +39,7 @@
 8. **Typing and Static Code Analysis:**
    - Correctness of typing with TypeScript: [Score/10]
    - Static code analysis and absence of warnings/errors: [Score/10]
+   - Automation of tools (Husky, lint-staged, CI on GitHub): [Score/10]
 
 9. **State Management:**
    - Local state management with useState/useReducer: [Score/10]
@@ -54,9 +54,12 @@
     - Documentation and visualization of components: [Score/10]
     - Consistency of Storybook pages with actual components and states: [Score/10]
 
+12. **Git Flow:**
+    - Compliance with our Git Flow standards: [Score/10]
+   
 ### Summary
 
-**Total Score:** [Total Score/100]
+**Total Score:** [Total Score/120]
 
 **Comments and Recommendations:**
 - [Detailed feedback on strengths and areas for improvement]
